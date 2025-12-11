@@ -1,0 +1,21 @@
+package collection;
+
+import java.util.Stack;
+
+public class stack {
+    public static void main(String[] args) {
+        Stack<Integer> stack = new Stack<>();
+
+        stack.push(10);
+        stack.push(20);
+        stack.push(30);
+
+        System.out.println("Stack elements: " + stack);
+
+        System.out.println("Popped element: " + stack.pop());
+
+        System.out.println("Top element: " + stack.peek());
+
+        System.out.println("Stack after operations: " + stack);
+    }
+}

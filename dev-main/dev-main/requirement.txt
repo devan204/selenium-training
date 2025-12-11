@@ -1,0 +1,6 @@
+it is ecommerce application
+Module 1: LOGIN
+Module 2: search product
+Module 3: add to cart
+Module 4: complete payment
+
