@@ -1,0 +1,3 @@
+CSS Selectors are faster than XPath because browsers natively understand CSS for rendering ,they directly interprets CSS and locates the elements very quickly
+while XPath requires a separate engine to traverse the DOM. CSS always moves forward in the DOM, making it  quicker,
+whereas XPath can move both forward and backward, making it slower and more complex 
